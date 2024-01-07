@@ -1,6 +1,6 @@
 # Red Fire Software Entertainment
 
-![istockphoto-1225740014-612x612](https://github.com/RedFireSoftwareEntertainment/RedFireSoftwareEntertainment/assets/98542488/79faeb83-77de-4c5b-8fdb-2f27445ed011)
+![REDFIRELOGO](https://github.com/RedFireSoftwareEntertainment/.github/assets/155894291/148d169c-90b4-4c22-9ce0-0cc9ef92c534)
 
 ## About Us
 
