@@ -22,7 +22,7 @@ If you want to know more about us or our projects, please visit our website or c
 
 - [AZ](https://github.com/itsnotAZ)
 
-- [Blox](https://github.com/Bloktastik)
+- [Blocks](https://github.com/Bloktastik)
 
 - xd_fiva
 
