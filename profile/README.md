@@ -20,9 +20,9 @@ If you want to know more about us or our projects, please visit our website or c
 
 - [YTopGame9](https://www.youtube.com/@ytopgame9112)
 
-- [AZ](https://www.youtube.com/channel/UC35ozeVrOEqyONqPgaPpHfA)
+- [AZ](https://github.com/itsnotAZ)
 
-- [Blox](https://www.youtube.com/@bloktasticfantastic/featured)
+- [Blox](https://github.com/Bloktastik)
 
 - xd_fiva
 
