@@ -46,5 +46,3 @@ If you want to know more about us or our projects, please visit our website or c
 
 ### [RedKit](https://github.com/RedFireSoftwareEntertainment/RedKit)
 
-### [OpenLOB](https://github.com/RedFireSoftwareEntertainment/OpenLOB)
-
